@@ -2,7 +2,7 @@
 Sou um programador front-end que busca aprender novas tecnologias e aplicar meus conhecimentos em trabalhos e projetos pessoais. Também me dedico em aprender algumas ferramentas back-end para criar API's.
 
 #### CONTATO
-[![Mail Badge](https://img.shields.io/badge/-vinicius-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vinicius.01deagosto@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-vinicius.01deagosto@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vinicius.01deagosto@gmail.com)
 
 #### BIO
 - Atualmente, estou contribuindo com o GCTI Parnamirim
