@@ -6,7 +6,7 @@ Sou um programador front-end que busca aprender novas tecnologias e aplicar meus
 
 #### BIO
 - Atualmente, estou contribuindo com o GCTI Parnamirim
-- Estou cursando o 5° período de Sistemas para Internet no IFRN
+- Estou cursando o 6° período de Sistemas para Internet no IFRN
 
 #### CONHECIMENTOS
 ![angular](https://img.shields.io/badge/-Angular-black?labelColor=EC1C24&logo=Angular&style=for-the-badge&logoColor=white)
