@@ -13,6 +13,7 @@ Gosto bastante de jogar 🎮 e transformar minhas ideias em código 💻.
 #### FRONTEND
 ![angular](https://img.shields.io/badge/-Angular-black?labelColor=258F76&logo=Angular&style=for-the-badge&logoColor=white)
 ![react](https://img.shields.io/badge/-React-black?labelColor=258F76&logo=React&style=for-the-badge&logoColor=white)
+![ionic](https://img.shields.io/badge/-Ionic-black?labelColor=258F76&logo=ionic&style=for-the-badge&logoColor=white)
 #### ORM
 ![graphql](https://img.shields.io/badge/-Graphql-black?labelColor=258F76&logo=Graphql&style=for-the-badge&logoColor=white)
 ![sequelize](https://img.shields.io/badge/-Sequelize-black?labelColor=258F76&logo=sequelize&style=for-the-badge&logoColor=white)
