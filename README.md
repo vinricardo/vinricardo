@@ -1,39 +1,35 @@
 ### Olá, eu sou o Vinicius! 👋
-Sou um programador front-end que busca aprender novas tecnologias e aplicar meus conhecimentos em trabalhos e projetos pessoais. Também me dedico em aprender algumas ferramentas back-end para criar API's.
+Gosto bastante de jogar 🎮 e transformar minhas ideias em código 💻.
 
-#### CONTATO
-[![Mail Badge](https://img.shields.io/badge/-vinicius.01deagosto@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vinicius.01deagosto@gmail.com)
+### CONTATO
+[![Mail Badge](https://img.shields.io/badge/-vinicius.01deagosto@gmail.com-258F76?style=flat&labelColor=258F76&logo=gmail&logoColor=white)](mailto:vinicius.01deagosto@gmail.com)
+[![linkedin Badge](https://img.shields.io/badge/-Vinicius_Ricardo-258F76?style=flat-square&labelColor=258F76&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vric4rdo/)](https://www.linkedin.com/in/vric4rdo/)
 
-#### BIO
-- Atualmente, estou contribuindo com o GCTI Parnamirim
-- Estou cursando o 6° período de Sistemas para Internet no IFRN
+### BIO
+- Programador front-end;
+- Tecnólogo em Sistemas para Internet, pelo Instituto Federal de Educação, Ciência e Tecnologia Rio Grande do Norte, campus Parnamirim/RN.
 
-#### CONHECIMENTOS
-![angular](https://img.shields.io/badge/-Angular-black?labelColor=EC1C24&logo=Angular&style=for-the-badge&logoColor=white)
-![react](https://img.shields.io/badge/-React-black?labelColor=EC1C24&logo=React&style=for-the-badge&logoColor=white)
-![graphql](https://img.shields.io/badge/-Graphql-black?labelColor=EC1C24&logo=Graphql&style=for-the-badge&logoColor=white)
-![springboot](https://img.shields.io/badge/-SpringBoot-black?labelColor=EC1C24&logo=SpringBoot&style=for-the-badge&logoColor=white)
-![postgres](https://img.shields.io/badge/-PostgreSQL-black?labelColor=EC1C24&logo=PostgreSQL&style=for-the-badge&logoColor=white)
+### CONHECIMENTOS
+#### FRONTEND
+![angular](https://img.shields.io/badge/-Angular-black?labelColor=258F76&logo=Angular&style=for-the-badge&logoColor=white)
+![react](https://img.shields.io/badge/-React-black?labelColor=258F76&logo=React&style=for-the-badge&logoColor=white)
+#### ORM
+![graphql](https://img.shields.io/badge/-Graphql-black?labelColor=258F76&logo=Graphql&style=for-the-badge&logoColor=white)
+![sequelize](https://img.shields.io/badge/-Sequelize-black?labelColor=258F76&logo=sequelize&style=for-the-badge&logoColor=white)
+![prisma](https://img.shields.io/badge/-Prisma-black?labelColor=258F76&logo=prisma&style=for-the-badge&logoColor=white)
+#### BACKEND
+![springboot](https://img.shields.io/badge/-SpringBoot-black?labelColor=258F76&logo=SpringBoot&style=for-the-badge&logoColor=white)
+![nodejs](https://img.shields.io/badge/-NodeJs-black?labelColor=258F76&logo=node.js&style=for-the-badge&logoColor=white)
+#### BD
+![postgres](https://img.shields.io/badge/-PostgreSQL-black?labelColor=258F76&logo=PostgreSQL&style=for-the-badge&logoColor=white)
 
-#### CONTATO COM LINGUAGENS
-![javascript](https://img.shields.io/badge/-JAVASCRIPT-black?labelColor=EC1C24&logo=Javascript&style=for-the-badge&logoColor=white)
-![java](https://img.shields.io/badge/-JAVA-black?labelColor=EC1C24&logo=Java&style=for-the-badge&logoColor=white)
-![c](https://img.shields.io/badge/-C-black?labelColor=EC1C24&logo=C&style=for-the-badge&logoColor=white)
+### CONTATO COM LINGUAGENS
+![javascript](https://img.shields.io/badge/-JAVASCRIPT-black?labelColor=258F76&logo=Javascript&style=for-the-badge&logoColor=white)
+![typescript](https://img.shields.io/badge/-TYPESCRIPT-black?labelColor=258F76&logo=Typescript&style=for-the-badge&logoColor=white)
+![java](https://img.shields.io/badge/-JAVA-black?labelColor=258F76&logo=Java&style=for-the-badge&logoColor=white)
+![c](https://img.shields.io/badge/-C-black?labelColor=258F76&logo=C&style=for-the-badge&logoColor=white)
 
-#### STATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinricardo&theme=onedark)](https://github.com/vinricardo/github-readme-stats)
-
-<!--
-**vinricardo/vinricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### STATS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinricardo&show_icons=true&theme=gotham)](https://github.com/vinricardo/github-readme-stats)
+<br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinricardo&theme=gotham)](https://github.com/vinricardo/github-readme-stats)
