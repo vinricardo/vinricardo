@@ -6,7 +6,6 @@ Gosto bastante de jogar 🎮 e transformar minhas ideias em código 💻.
 [![linkedin Badge](https://img.shields.io/badge/-Vinicius_Ricardo-258F76?style=flat-square&labelColor=258F76&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vric4rdo/)](https://www.linkedin.com/in/vric4rdo/)
 
 ### BIO
-- Programador front-end;
 - Tecnólogo em Sistemas para Internet, pelo Instituto Federal de Educação, Ciência e Tecnologia Rio Grande do Norte, campus Parnamirim/RN.
 
 ### CONHECIMENTOS
